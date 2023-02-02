@@ -3,9 +3,9 @@
 - Hoje trabalho com Suporte - Pretendo migrar para área de Desenvolvimento ...
 - Atualmente estudando Java ...
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaoloBolomini&show_icons=true&hide=stars,issues,contribs&theme=dracula )
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaoloBolomini&show_icons=true&hide=stars,issues,contribs&theme=dark )
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloBolomini&layout=compact&theme=dracula&border_radius=4.5&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloBolomini&layout=compact&theme=dark&border_radius=4.5&)
 
 
 
