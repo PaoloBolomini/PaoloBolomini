@@ -1,16 +1,34 @@
-### Hi there 👋
+### Olá! Eu sou Paolo Bolomini 👋
 
-<!--
-**PaoloBolomini/PaoloBolomini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hoje trabalho com Suporte - Pretendo migrar para área de Desenvolvimento ...
+- Atualmente estudando Java ...
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaoloBolomini&show_icons=true&hide=stars,issues,contribs&theme=dracula )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaoloBolomini&layout=compact&theme=dracula&border_radius=4.5&)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-java-plain-wordmark"></i>
+
+
+
+
+  
+
